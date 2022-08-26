@@ -1,0 +1,14 @@
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\bin\Debug\netcoreapp3.1\26.08.22Lab.exe
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\bin\Debug\netcoreapp3.1\26.08.22Lab.deps.json
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\bin\Debug\netcoreapp3.1\26.08.22Lab.runtimeconfig.json
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\bin\Debug\netcoreapp3.1\26.08.22Lab.runtimeconfig.dev.json
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\bin\Debug\netcoreapp3.1\26.08.22Lab.dll
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\bin\Debug\netcoreapp3.1\26.08.22Lab.pdb
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\obj\Debug\netcoreapp3.1\26.08.22Lab.csproj.AssemblyReference.cache
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\obj\Debug\netcoreapp3.1\26.08.22Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\obj\Debug\netcoreapp3.1\26.08.22Lab.AssemblyInfoInputs.cache
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\obj\Debug\netcoreapp3.1\26.08.22Lab.AssemblyInfo.cs
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\obj\Debug\netcoreapp3.1\26.08.22Lab.csproj.CoreCompileInputs.cache
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\obj\Debug\netcoreapp3.1\26.08.22Lab.dll
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\obj\Debug\netcoreapp3.1\26.08.22Lab.pdb
+C:\Users\ihebi\source\repos\26.08.22Lab\26.08.22Lab\obj\Debug\netcoreapp3.1\26.08.22Lab.genruntimeconfig.cache
