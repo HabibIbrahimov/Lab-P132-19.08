@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ihebi\\source\\repos\\Fiorello Lab\\Fiorello Lab\\Fiorello Lab.csproj": {}
+    "C:\\Users\\ihebi\\source\\repos\\P132-Lab-Tasks\\Fiorello Lab\\Fiorello Lab\\Fiorello Lab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ihebi\\source\\repos\\Fiorello Lab\\Fiorello Lab\\Fiorello Lab.csproj": {
+    "C:\\Users\\ihebi\\source\\repos\\P132-Lab-Tasks\\Fiorello Lab\\Fiorello Lab\\Fiorello Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ihebi\\source\\repos\\Fiorello Lab\\Fiorello Lab\\Fiorello Lab.csproj",
+        "projectUniqueName": "C:\\Users\\ihebi\\source\\repos\\P132-Lab-Tasks\\Fiorello Lab\\Fiorello Lab\\Fiorello Lab.csproj",
         "projectName": "Fiorello Lab",
-        "projectPath": "C:\\Users\\ihebi\\source\\repos\\Fiorello Lab\\Fiorello Lab\\Fiorello Lab.csproj",
+        "projectPath": "C:\\Users\\ihebi\\source\\repos\\P132-Lab-Tasks\\Fiorello Lab\\Fiorello Lab\\Fiorello Lab.csproj",
         "packagesPath": "C:\\Users\\ihebi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ihebi\\source\\repos\\Fiorello Lab\\Fiorello Lab\\obj\\",
+        "outputPath": "C:\\Users\\ihebi\\source\\repos\\P132-Lab-Tasks\\Fiorello Lab\\Fiorello Lab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,6 +52,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             }
           },
           "imports": [
